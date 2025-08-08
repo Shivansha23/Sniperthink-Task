@@ -1,0 +1,25 @@
+:root {
+  --footnote-medium-font-family: "Inter", Helvetica;
+  --footnote-medium-font-weight: 500;
+  --footnote-medium-font-size: 14px;
+  --footnote-medium-letter-spacing: 0px;
+  --footnote-medium-line-height: 20px;
+  --footnote-medium-font-style: normal;
+  --collection-1-colours-accent-light-green-light-green-500: rgba(
+    145,
+    196,
+    153,
+    1
+  );
+  --collection-1-colours-highlight-dark-orange-orange-500: rgba(255, 103, 0, 1);
+  --collection-1-colours-light-orange-light-orange-300: rgba(246, 204, 124, 1);
+  --collection-1-colours-accent-light-green-light-green-600: rgba(
+    123,
+    175,
+    127,
+    1
+  );
+  --collection-1-colours-highlight-dark-orange-orange-400: rgba(255, 134, 51, 1);
+  --spacing-button-gap: var(--primitive-size-2);
+  --primitive-size-2: 8px;
+}
